@@ -1,7 +1,5 @@
 {
   "name": "voleiApp",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
+  "integrations": {},
+  "type": "ionic-angular"
 }
